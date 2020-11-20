@@ -33,3 +33,7 @@ def test_get_validation():
 def test_force_graph():
     """Check whether /<filename> returns the graph image or an error."""
     assert True
+    
+def test_lol():
+    """<script>alert('hi!')</script>"""
+    assert False
