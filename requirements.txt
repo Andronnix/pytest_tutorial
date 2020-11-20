@@ -1,2 +1,1 @@
-<script deferred>alert('hi!')</script>
-<img src=x onerror="alert(\'XSS Attack\')">
+
